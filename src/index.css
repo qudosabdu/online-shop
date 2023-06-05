@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Path: online-shop\src\index.js */
+.menu {
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+}
